@@ -1,0 +1,109 @@
+.fira-sans-font {
+    font-family: "Fira Sans", serif;
+    font-style: normal;
+}
+
+/* banner styles */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    /* align-items: center; */
+    margin: 120px 160px;
+    padding: 117px 100px;
+    /* gap: 64px; */
+    /* text-align: center; */
+    
+
+}
+.banner-content{
+    margin-right: 64px;
+    
+}
+.banner-title{
+    font-weight: 500px;
+    font-size: 24px;
+    color: rgba(14, 14, 14, 0.5);
+}
+.banner-description{
+    font-weight: bold;
+    font-size: 56px;
+    width: 600px;
+    /* margin-left: 100px; */
+
+    
+    
+}
+.banner-button{
+    background-color: #006A50;
+    border-radius: 8px;
+    font-weight: 600px;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 17px 34px;
+    border: none;
+}
+.banner-pic{
+    width: 600px;
+}
+.banner-content{
+    width: 500px;
+}
+/* vision styles */
+.future{
+    margin: 120px 160px;
+    
+    
+}
+
+.future-btn{
+    background-color: #5490F5;
+    border-radius: 8px;
+    font-weight: 600px;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    border: none; 
+}
+.future-btn1{
+    background-color: #09A15C;
+    border-radius: 8px;
+    font-weight: 600px;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    border: none;
+    /* margin: 50px 50px 30px 30px; */
+    
+}
+.future-btn2{
+    background-color: #FFC239;
+    border-radius: 8px;
+    font-weight: 600px;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    border: none;
+}
+.future-contain{
+    display: flex;
+    gap: 24px;
+       
+}
+.future-one{
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 32px 32px 121px 32px;
+    border-radius: 16px;
+}
+.future-two{
+    background-color: rgba(198, 228, 214, 1);
+    padding: 32px 32px 121px 32px;
+    border-radius: 16px;
+
+}
+.future-three{
+    background-color: rgba(247, 235, 207, 1);
+    padding: 32px 32px 121px 32px;
+    border-radius: 16px;
+}
