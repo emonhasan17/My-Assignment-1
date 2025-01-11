@@ -107,3 +107,56 @@
     padding: 32px 32px 121px 32px;
     border-radius: 16px;
 }
+/* section style */
+.society{
+    background-image: url("assets/quote-bg.png");
+    background-position: 28px 14px;
+    background-repeat: no-repeat;
+    border: 2px solid rgba(241, 241, 243, 1);
+    border-radius: 16px;
+    padding: 28px 28px;
+    /* margin-top: 32px; */
+    margin-top: 32px;
+    
+}
+
+/* news */
+.tiger{
+    gap: 33px;
+}
+.satellite-border{
+    display: flex;
+    border: 2px solid rgba(241, 241, 243, 1);
+    border-radius: 16px;
+    padding: 48px 48px;
+    gap: 50px;
+}
+.satellite-border-one{
+    display: flex;
+    border: 2px solid rgba(241, 241, 243, 1);
+    border-radius: 16px;
+    padding: 48px 48px;
+    gap: 50px;
+}
+
+.news-title{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 2px;
+}
+.news-description{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+    
+}
+.satellite-img{
+    border-radius: 24px;
+    width: 450px;
+}
+.satellite-title{
+    margin-top: 5px;
+}
+.satellite-btn{
+    margin-bottom: 3px;
+}
+
