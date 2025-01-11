@@ -218,3 +218,58 @@
 ::placeholder{
     color: rgba(14, 14, 14, 0.3);
 }
+/* footer styles */
+.hold{
+    text-align: center;
+    justify-content: center;
+    border: 2px solid rgba(241, 241, 243, 1);
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 16px;
+    margin: 20px 160px;
+    padding: 70px ;
+    /* height: 300px; */
+    
+}
+.fotter-title{
+    font-weight: bold;
+    font-size: 40px;
+}
+.fotter-description{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.last-btn{
+    background-color: rgba(0, 106, 80, 1);
+    border-radius: 0px 8px 8px 0px;
+    font-weight: 600px;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    border: none;
+    height: 50px;
+    position: absolute;
+    
+}
+.align{
+    border-radius: 8px 0px 0px 8px;
+    width: 560px;
+    height: 50px;
+    /* padding: 0 16px; */
+    /* margin: 24px 90px; */
+    /* border: 2px solid rgba(241, 241, 243, 1); */
+    background-color: rgba(255, 255, 255, 1);
+    border: none;
+    font-size: 18px;
+    padding: 0px 0px 0px 50px;
+    font-size: 18px;
+
+}
+.final{
+    position: relative;
+    margin-right: 110px;
+    
+    
+}
+.lion{
+    color: rgba(14, 14, 14, 0.7);
+}
