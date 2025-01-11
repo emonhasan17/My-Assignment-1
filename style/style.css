@@ -273,3 +273,37 @@
 .lion{
     color: rgba(14, 14, 14, 0.7);
 }
+
+.all-button:hover{
+    background-color: violet;
+}
+.all-button-one:hover{
+    background-color: aqua;
+}
+.btn-solve{
+    background-color: #5490F5;
+                    border-radius: 8px;
+                    font-weight: 600px;
+                    font-size: 16px;
+                    color: #FFFFFF;
+                    padding: 11px 20px;
+                    border: none;
+}
+.btn-solve-one{
+    background-color: #006A50;
+                        border-radius: 8px;
+                        font-weight: 600px;
+                        font-size: 16px;
+                        color: #FFFFFF;
+                        padding: 11px 20px;
+                        border: none;
+}
+.btn-solve-two{
+    background-color: #006A50;
+                    border-radius: 8px;
+                    font-weight: 600px;
+                    font-size: 16px;
+                    color: #FFFFFF;
+                    padding: 11px 20px;
+                    border: none;
+}
