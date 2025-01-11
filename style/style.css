@@ -121,9 +121,7 @@
 }
 
 /* news */
-.tiger{
-    gap: 33px;
-}
+
 .satellite-border{
     display: flex;
     border: 2px solid rgba(241, 241, 243, 1);
@@ -159,4 +157,64 @@
 .satellite-btn{
     margin-bottom: 3px;
 }
-
+/* rising */
+.rising-title{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+.rising-description{
+    color: rgba(14, 14, 14, 0.7);
+    text-align: center;
+    width: 1500px;
+}
+.rising-box{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    width: 1500px;
+    margin-top: 50px;
+    
+}
+.money{
+    font-weight: bold;
+    font-size: 40px;
+    border: 2px solid rgba(241, 241, 243, 1);
+    background-color: rgba(255, 255, 255, 1);
+    padding: 40px 40px;
+    border-radius: 16px; 
+}
+.money-two{
+    font-weight: bold;
+    font-size: 40px;
+    border: 2px solid rgba(241, 241, 243, 1);
+    background-color: rgba(198, 228, 214, 1);
+    padding: 40px 40px;
+    border-radius: 16px;
+}
+.rising-input{
+    width: 1300px;
+    height: 60px;
+    margin: 24px 90px;
+    border: 2px solid rgba(241, 241, 243, 1);
+    background-color: rgba(255, 255, 255, 1);
+    text-align: center;
+    font-size: 18px;
+}
+.donet-btn{
+    background-color: rgba(0, 106, 80, 1);
+    border-radius: 8px;
+    font-weight: 600px;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    border: none;
+    
+}
+.class-btn{
+    text-align: center;
+    padding: 0 110px 0 0;
+}
+::placeholder{
+    color: rgba(14, 14, 14, 0.3);
+}
